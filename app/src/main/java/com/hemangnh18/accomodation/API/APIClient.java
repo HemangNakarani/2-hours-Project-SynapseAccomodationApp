@@ -7,7 +7,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class APIClient {
 
-    public static final String BASE_URL = "https://script.google.com/macros/s/AKfycbxFs06PMKwgpNDv-Nsf2ZtYQk45NkP9D27xmb1WBujB-1nhWkcg/";
+    public static final String BASE_URL = "https://script.google.com/macros/s/_______APNI KEY DAALO_______/";
     private static Retrofit retrofit = null;
 
 
