@@ -52,7 +52,7 @@ public class Methods {
     {
         GMailSender.withAccount(Config.EMAIL, Config.PASSWORD)
                 .withTitle("Hello")
-                .withBody("RRR NIKAL LAWDE")
+                .withBody("WELCOME TO SYNAPSE'20")
                 .withSender(Config.EMAIL)
                 .toEmailAddress(emailto.getEmail())
                 .withListenner(new GmailListener()
